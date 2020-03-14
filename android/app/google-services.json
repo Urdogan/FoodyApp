@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043286953623",
+    "firebase_url": "https://flt-deneme.firebaseio.com",
+    "project_id": "flt-deneme",
+    "storage_bucket": "flt-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043286953623:android:522dd0cb913a5a129fe3d2",
+        "android_client_info": {
+          "package_name": "com.example.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043286953623-hc944tuqkgboi1g68k7sdqf4a5m1eqmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foody",
+            "certificate_hash": "500d107fe22506d3f6450ab353edf60b9d151b01"
+          }
+        },
+        {
+          "client_id": "1043286953623-g3q44eni9g0blh38rqib67ut264dnkvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4U3SS94h7qM-tyZ8lJUBsloDGpHsK0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043286953623-g3q44eni9g0blh38rqib67ut264dnkvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
