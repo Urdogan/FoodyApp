@@ -21,11 +21,11 @@ class PlacesService extends ChangeNotifier {
       "https://flt-deneme.firebaseio.com/categories.json";
   static const firebaseFood = "https://flt-deneme.firebaseio.com/foods.json";
   static const firebaseUser = "https://flt-deneme.firebaseio.com/users.json";
-  static const googleAPI = "AIzaSyAiAT5afkZBrwKOd7qf9k39DIBak-6vG_o";
+  static const googleAPI = "GOOGLE_API_KEY";
   static const firebaseSignin =
-      "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyBXOkZo0q591PQmGSNQzzbuXHvZjKtY3PY";
+      "KEY";
   static const firebaseSignup =
-      "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyBXOkZo0q591PQmGSNQzzbuXHvZjKtY3PY";
+      "KEY";
 
   List<Place> _placeList = [];
   List<Category> _categoryList = [];
